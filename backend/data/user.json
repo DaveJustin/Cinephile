@@ -1,0 +1,15 @@
+
+[
+    {
+        "name":"admin - davejustin",
+        "email":"admin-davejustin@gmail.com",
+        "avatar": {
+            "public_id" : "admin",
+            "url": "https://ui-avatars.com/api/?name=admin davejustin"
+        }
+    },
+    {
+        "name":"Estopa",
+        "email":"estopa@gmail.com"
+    }
+]
